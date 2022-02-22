@@ -1,13 +1,19 @@
 /*******
-  Reference 1: Code for the Textile Game Controller Jam by Social Body Lab, Dames Making Game, & Game Play Lab.
-  May 30, 2020 - June 6, 2020.
-  This is code follows along the "How to Make an E-Textile Digital Switch" here: https://youtu.be/OHO1NxV-ebw
-  The code contains 1 digital switch which lights up the LED ring when activated.
-  Circuit Playground Library:
-  https://learn.adafruit.com/circuit-playground-lesson-number-0
+Red Light Green Light
+Marquessa MacKenzie
+DIGF-3010 Wearable Electronics
+OCAD University
+Created Feb 2022
 
-  Reference 2: Adafruit "A basic everyday NeoPixel strip test program"
-  Adafruit_Neopixel Library:https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/strandtest/strandtest.ino
+Reference 1: Code for the Textile Game Controller Jam by Social Body Lab, Dames Making Game, & Game Play Lab.
+May 30, 2020 - June 6, 2020.
+This is code follows along the "How to Make an E-Textile Digital Switch" here: https://youtu.be/OHO1NxV-ebw
+The code contains 1 digital switch which lights up the LED ring when activated.
+
+Reference 3: Circuit Playground Library, https://learn.adafruit.com/circuit-playground-lesson-number-0
+
+Reference 2: Adafruit "A basic everyday NeoPixel strip test program"
+Adafruit_Neopixel Library, https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/strandtest/strandtest.ino
 *********/
 
 /**Must include the Adafruit_CircuitPlayground.h**/
